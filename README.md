@@ -1,12 +1,12 @@
 # Doctor-Appointment-System
 The **Doctor Appointment System** is a web-based tool that replaces the old manual process of booking appointments with a computerized system. This system helps store important information safely for a long time and makes it easy to find and update when needed. The main goal is to make the process faster and offer better services to patients. The system will allow patients to quickly book doctor appointments and make it easier for doctors to manage their schedules.
 
-# Project Overview:
-Project Name	Doctor Appointments System Project in Python Django
-Language Used:	Python
-Framework Used:	Django
-Database:	MySQL
-User Interface Design:	HTML, AJAX,JQUERY,JAVASCRIPT
+# Project Requirements Overview:
+1. Project Name	Doctor Appointments System Project in Python Django
+2. Language Used:	Python
+3. Framework Used:	Django
+4. Database:	MySQL
+5. User Interface Design:	HTML, AJAX,JQUERY,JAVASCRIPT
 
 
 # Doctor Appointment Management System
